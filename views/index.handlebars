@@ -1,0 +1,62 @@
+<div class="container">
+<div class="jumbotron text-center">
+    <h1>Fleur-de-Licious</h1>
+</div>
+</div>
+<div class="row">
+<div class="col-md-3" id="newBox">
+    <div class="text-center">
+
+<h2>Have a New Orleans treat! </h2>
+    </div>
+<br>
+<ul>
+    {{#each foods}}
+    {{#unless this.eaten}}
+<li>
+    <p>{{this.food_name}}
+    <form method="POST" action="/foods/{{this.id}}?_method=PUT">
+    <button class="eatFood btn btn-sm btn-warning" type="submit">Eat the {{this.food_name}}!!</button></form></p>
+</li>
+{{/unless}}
+    {{/each}}
+</ul>
+</div>
+
+<div class="col-md-1">
+</div>
+
+<div class="col-md-3" id="addBox">
+    <div>
+  <h3>Make a New Food</h3>
+    </div>
+    <br>
+    <div>
+  <form action="/foods" method="POST">
+  	<textarea type="text" id="name" name="foodname" placeholder="Mmmmm"></textarea>
+      <br><br>
+  	<button class="btn btn-md btn-warning" type="submit">Submit New Food</button>
+  </form>
+    </div>
+</div>
+
+<div class="col-md-1">
+</div>
+
+<div class="col-md-3" id="eaten">
+    <div>
+  <h3>All Foods Eaten</h3>
+</div>
+<br>
+<ul>
+  {{#each foods}}
+    {{#if this.eaten}}
+      <li>
+        {{this.food_name}}
+      </li>
+    {{/if}}
+  {{/each}}
+</ul>
+
+</div>
+</div>

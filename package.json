@@ -1,0 +1,27 @@
+{
+  "name": "fleur-dee-licious",
+  "version": "1.0.0",
+  "description": "A New Orleans themed Node.js, Handlebars, and MySQL application allowing a user to post, remove, and update food listings.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinclimber/Fleur-dee-Licious.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinclimber/Fleur-dee-Licious/issues"
+  },
+  "homepage": "https://github.com/karinclimber/Fleur-dee-Licious#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1"
+  }
+}

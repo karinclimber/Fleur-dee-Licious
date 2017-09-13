@@ -1,0 +1,47 @@
+body {
+    background-image: url("../img/shrimp-po-boy.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: Papyrus, fantasy;
+    color: black;
+}
+
+.jumbotron {
+ margin-top: 20px;
+ background-color: white;
+ opacity: .8;
+}
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+#newBox {
+    background-color: white;
+    opacity: .8;
+    padding: 30px;
+    height: fit-content;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+#addBox {
+    background-color: white;
+    opacity: .8;
+    padding: 30px;
+    height: fit-content;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+
+#eaten {
+    background-color: white;
+    opacity: .8;
+    padding: 30px;
+    height: fit-content;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
