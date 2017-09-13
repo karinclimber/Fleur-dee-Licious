@@ -17,7 +17,7 @@ app.use(methodOverride('_method'));
 app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
-var router = require('./controllers/food_controller.js');
+var router = require('./controllers/fleur_controller.js');
 app.use("/", router);
 
 app.listen(process.env.PORT || port, function(){
