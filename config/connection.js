@@ -11,7 +11,7 @@ connection = mysql.createConnection({
   host: "ysp9sse09kl0tzxj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
   user: "c0fonstm6ydmu5ey",
   password: "edh1v2l472pyncpy",
-  database: "zo0t9ienlwsd9olu"
+  database: "gehxhwt2053r71at"
 });
 
 console.log({
