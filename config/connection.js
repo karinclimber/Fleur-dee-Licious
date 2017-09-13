@@ -8,9 +8,9 @@ var connection;
 
 connection = mysql.createConnection({
   port: 3306,
-  host: "ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-  user: "dfdf0a6rezbtoatg",
-  password: "cavednpaswkym14c",
+  host: "ysp9sse09kl0tzxj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+  user: "c0fonstm6ydmu5ey",
+  password: "edh1v2l472pyncpy",
   database: "zo0t9ienlwsd9olu"
 });
 

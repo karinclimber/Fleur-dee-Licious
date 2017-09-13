@@ -1,8 +1,6 @@
-DROP DATABASE IF EXISTS `zo0t9ienlwsd9olu`;
+-- Create the database `gehxhwt2053r71at` and specified it for use.
 
--- Create the database `zo0t9ienlwsd9olu` and specified it for use.
-CREATE DATABASE `zo0t9ienlwsd9olu`;
-USE `zo0t9ienlwsd9olu`;
+USE `gehxhwt2053r71at`;
 
 -- Create the table plans.
 CREATE TABLE foods
