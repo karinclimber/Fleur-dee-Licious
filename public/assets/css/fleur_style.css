@@ -102,7 +102,7 @@ h3 {
  }
   
  /* for tablet-portrait-up  */
-    @media only screen and (min-width: 600px) and (max-width: 900px){  
+    @media only screen and (min-width: 600px) and (max-width: 769px){  
         .jumbotron {
             width: 90%;
             margin-left: 40px;
@@ -125,7 +125,7 @@ h3 {
         } 
   } 
 /* for tablet-landscape-up  */
-    @media (min-width: 901px) and (max-width:1200px) { 
+    @media (min-width: 770px) and (max-width:900px) { 
         .jumbotron {
             width: 90%;
             margin-left: 50px;
