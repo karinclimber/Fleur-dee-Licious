@@ -2,33 +2,33 @@ body {
     background-image: url("../img/shrimp-po-boy.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Bangers', cursive;
     color: black;
 }
 
 .jumbotron {
  margin-top: 20px;
  width: 90%;
- font-family: 'Permanent Marker', cursive;
- background-color: #FA020F !important;
+font-family: 'Bangers', cursive;
+ background-color: white !important;
  opacity: .9;
  border-radius: 5px;
 }
 
 h1 {
     text-align: center;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Bangers', cursive;
     font-size: 30px;
-    font-family: 300px;
+    font-weight: 300px;
 }
 h2,
 h3 {
     text-align: center;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Bangers', cursive;
 }
 #newBox {
-    font-family: 'Permanent Marker', cursive;
-    background-color: #FA020F;
+    font-family: 'Bangers', cursive;
+    background-color: white;
     opacity: .9;
     padding: 20px;
     padding-top: 30px;
@@ -42,8 +42,8 @@ h3 {
 }
 
 #addBox {
-    font-family: 'Permanent Marker', cursive;
-    background-color: #FA020F;
+    font-family:  'Bangers', cursive;
+    background-color: white;
     opacity: .9;
     padding: 20px;
     padding-top: 30px;
@@ -57,8 +57,8 @@ h3 {
 }
 
 #eaten {
-    font-family: 'Permanent Marker', cursive;
-    background-color: #02DDFA;
+    font-family: 'Bangers', cursive;
+    background-color: white;
     opacity: .9;
     padding: 20px;
     padding-top: 30px;
