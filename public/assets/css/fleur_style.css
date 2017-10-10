@@ -1,15 +1,17 @@
 body {
     background-image: url("../img/shrimp-po-boy.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     font-family: Papyrus, fantasy;
     color: black;
 }
 
 .jumbotron {
  margin-top: 20px;
+ width: 60%;
  background-color: white;
  opacity: .8;
+ border-radius: 5px;
 }
 h1,
 h2,
@@ -24,6 +26,8 @@ h3 {
     margin-top: 30px;
     margin-left: 50px;
     margin-bottom: 20px;
+    border-radius: 5px;
+    width: fit-content;
 }
 
 #addBox {
@@ -33,6 +37,8 @@ h3 {
     height: fit-content;
     margin-top: 30px;
     margin-bottom: 20px;
+    border-radius: 5px;
+    width: fit-content;
     
 }
 
@@ -41,7 +47,27 @@ h3 {
     opacity: .8;
     padding: 30px;
     height: fit-content;
+    width: fit-content;
     margin-top: 30px;
     margin-right: 50px;
     margin-bottom: 20px;
+    border-radius: 5px;
 }
+
+
+/* for phone */
+    @media (max-width: 599px) { 
+ }
+  
+ /* for tablet-portrait-up*/ 
+    @media (min-width: 600px) {  
+  }
+/* for tablet-landscape-up  */
+    @media (min-width: 900px) { 
+  }
+/* for desktop-up */
+    @media (min-width: 1200px) { 
+  }
+/* for big-desktop-up*/ 
+    @media (min-width: 1800px) { 
+  }
