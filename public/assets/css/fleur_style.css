@@ -58,7 +58,7 @@ h3 {
 
 #eaten {
     font-family: 'Permanent Marker', cursive;
-    background-color: #FA020F;
+    background-color: #02DDFA;
     opacity: .9;
     padding: 20px;
     padding-top: 30px;
@@ -74,20 +74,20 @@ h3 {
 /* for phone */
     @media (max-width: 599px) { 
         .jumbotron {
-            width: 100%;
-            margin: 10px;
+            width: 900%;
+            margin: 20px;
         }
         #eaten {
-            width: 100%;
-            margin: 10px;
+            width: 900%;
+            margin: 20px;
         }
         #addBox {
-            width: 100%;
-            margin: 10px;
+            width: 900%;
+            margin: 20px;
         }
         #newBox {
-            width: 100%;
-            margin: 10px;
+            width: 900%;
+            margin: 20px;
         }
  }
   
