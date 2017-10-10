@@ -128,22 +128,22 @@ h3 {
     @media (min-width: 765px) and (max-width:929px) { 
         .jumbotron {
             width: 90%;
-            margin-left: 100px;
-            margin-right: 100px;
+            margin-left: 40px;
+            margin-right: 40px;
         }
         #eaten {
             width: 100%;
-            margin-left: 100px;
-            margin-right: 100px;
+            margin-left: 40px;
+            margin-right: 40px;
         }
         #addBox {
             width: 100%;
-            margin-left: 100px;
-            margin-right: 100px;
+            margin-left: 40px;
+            margin-right: 40px;
         }
         #newBox {
             width: 100%;
-            margin-left: 100px;
-            margin-right: 100px;
+            margin-left: 40px;
+            margin-right: 40px;
         }
  }
