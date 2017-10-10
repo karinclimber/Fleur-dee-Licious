@@ -125,25 +125,25 @@ h3 {
         } 
   } 
 /* for tablet-landscape-up  */
-    @media (min-width: 765px) and (max-width:929px) { 
+    @media (min-width: 765px) and (max-width: 929px) { 
         .jumbotron {
             width: 90%;
-            margin-left: 40px;
-            margin-right: 40px;
+            margin-left: 50px;
+            margin-right: 50px;
         }
         #eaten {
-            width: 100%;
-            margin-left: 40px;
-            margin-right: 40px;
+            width: 90%;
+            margin-left: 50px;
+            margin-right: 50px;
         }
         #addBox {
-            width: 100%;
-            margin-left: 40px;
-            margin-right: 40px;
+            width: 90%;
+            margin-left: 50px;
+            margin-right: 50px;
         }
         #newBox {
-            width: 100%;
-            margin-left: 40px;
-            margin-right: 40px;
+            width: 90%;
+            margin-left: 50px;
+            margin-right: 50px;
         }
  }
