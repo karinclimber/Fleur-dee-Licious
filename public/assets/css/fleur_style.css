@@ -8,7 +8,7 @@ body {
 
 .jumbotron {
  margin-top: 30px;
- width: 100%;
+ width: 90%;
  font-family: 'Bangers', cursive;
  background-color: white !important;
  opacity: .9;
@@ -28,19 +28,19 @@ h3 {
 
 #name {
     text-align: center;
-    padding: 5px;
+    padding: 2px;
 }
 
 #newBox {
     font-family: 'Bangers', cursive;
     background-color: white;
     opacity: .9;
-    padding: 20px;
+    padding: 15px;
     padding-top: 30px;
     height: fit-content;
     margin-top: 30px;
     margin-left: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     border-radius: 7px;
     width: fit-content;
     font-size: 16px;
@@ -50,11 +50,12 @@ h3 {
     font-family:  'Bangers', cursive;
     background-color: white;
     opacity: .9;
-    padding: 20px;
+    padding: 15px;
     padding-top: 30px;
     height: fit-content;
+    width: fit-content;
     margin-top: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     border-radius: 7px;
     text-align: center;
     font-size: 16px;
@@ -65,13 +66,13 @@ h3 {
     background-color: white;
     opacity: .9;
     font-size: 16px;
-    padding: 20px;
+    padding: 15px;
     padding-top: 30px;
     height: fit-content;
     width: fit-content;
     margin-top: 30px;
     margin-right: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     border-radius: 7px;
 }
 
