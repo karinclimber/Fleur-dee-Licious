@@ -8,7 +8,7 @@ body {
 
 .jumbotron {
  margin-top: 30px;
- width: 90%;
+ width: 100%;
  font-family: 'Bangers', cursive;
  background-color: white !important;
  opacity: .9;
@@ -102,7 +102,7 @@ h3 {
  }
   
  /* for tablet-portrait-up  */
-    @media (min-width: 600px) and (max-width: 899px){  
+    @media (min-width: 600px) and (max-width: 769px){  
         .jumbotron {
             width: 90;
             margin-left: 30px;
@@ -125,7 +125,7 @@ h3 {
         } 
   } 
 /* for tablet-landscape-up  */
-    @media (min-width: 900px) and (max-width:1200px) { 
+    @media (min-width: 769px) and (max-width:900px) { 
         .jumbotron {
             width: 90;
             margin-left: 30px;
