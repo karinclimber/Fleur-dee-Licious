@@ -132,17 +132,17 @@ h3 {
             margin-right: 100px;
         }
         #eaten {
-            width: 90%;
+            width: fit-content;
             margin-left: 100px;
             margin-right: 100px;
         }
         #addBox {
-            width: 90%;
+            width: fit-content;
             margin-left: 100px;
             margin-right: 100px;
         }
         #newBox {
-            width: 90%;
+            width: fit-content;
             margin-left: 100px;
             margin-right: 100px;
         }
