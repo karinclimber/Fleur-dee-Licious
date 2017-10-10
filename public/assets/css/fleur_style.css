@@ -2,14 +2,14 @@ body {
     background-image: url("../img/shrimp-po-boy.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Impact Body';
     color: black;
 }
 
 .jumbotron {
  margin-top: 20px;
  width: 90%;
- font-family: 'Permanent Marker', cursive;
+ font-family: 'Impact Body';
  background-color: white;
  opacity: .8;
  border-radius: 5px;
@@ -19,7 +19,7 @@ h1,
 h2,
 h3 {
     text-align: center;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Impact Body';
 }
 #newBox {
     background-color: white;
