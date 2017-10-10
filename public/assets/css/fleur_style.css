@@ -12,7 +12,7 @@ body {
  font-family: 'Bangers', cursive;
  background-color: white !important;
  opacity: .9;
- border-radius: 10px;
+ border-radius: 7px;
 }
 
 h1 {
@@ -41,7 +41,7 @@ h3 {
     margin-top: 30px;
     margin-left: 40px;
     margin-bottom: 20px;
-    border-radius: 10px;
+    border-radius: 7px;
     width: fit-content;
     font-size: 16px;
 }
@@ -55,7 +55,7 @@ h3 {
     height: fit-content;
     margin-top: 30px;
     margin-bottom: 20px;
-    border-radius: 10px;
+    border-radius: 7px;
     text-align: center;
     font-size: 16px;
 }
@@ -72,7 +72,7 @@ h3 {
     margin-top: 30px;
     margin-right: 40px;
     margin-bottom: 20px;
-    border-radius: 10px;
+    border-radius: 7px;
 }
 
 
