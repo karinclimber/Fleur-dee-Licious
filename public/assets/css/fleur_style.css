@@ -125,25 +125,25 @@ h3 {
         } 
   } 
 /* for tablet-landscape-up  */
-    /* @media only screen and (min-width: 765px) and (max-width:929px) { 
+    @media only screen and (min-width: 765px) and (max-width:929px) { 
         .jumbotron {
             width: 90%;
             margin-left: 100px;
             margin-right: 100px;
         }
         #eaten {
-            width: fit-content;
+            width: 75%;
             margin-left: 100px;
             margin-right: 100px;
         }
         #addBox {
-            width: fit-content;
+            width: 75%;
             margin-left: 100px;
             margin-right: 100px;
         }
         #newBox {
-            width: fit-content;
+            width: 75%;
             margin-left: 100px;
             margin-right: 100px;
         }
- } */
+ }
