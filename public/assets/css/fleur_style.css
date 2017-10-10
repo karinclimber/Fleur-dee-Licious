@@ -10,7 +10,7 @@ body {
  margin-top: 20px;
  width: 90%;
  font-family: 'Permanent Marker', cursive;
- background-color: #F8C006;
+ background-color: #F8C006 !important;
  opacity: .9;
  border-radius: 5px;
 }
@@ -30,6 +30,7 @@ h3 {
     background-color: #F8C006;
     opacity: .9;
     padding: 20px;
+    padding-top: 30px;
     height: fit-content;
     margin-top: 30px;
     margin-left: 50px;
@@ -43,6 +44,7 @@ h3 {
     background-color: #F8C006;
     opacity: .9;
     padding: 20px;
+    padding-top: 30px;
     height: fit-content;
     margin-top: 30px;
     margin-bottom: 20px;
@@ -56,6 +58,7 @@ h3 {
     background-color: #F8C006;
     opacity: .9;
     padding: 20px;
+    padding-top: 30px;
     height: fit-content;
     width: fit-content;
     margin-top: 30px;
