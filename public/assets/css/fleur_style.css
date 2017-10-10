@@ -11,7 +11,7 @@ body {
  width: 90%;
  font-family: 'Permanent Marker', cursive;
  background-color: #F8C006;
- opacity: .8;
+ opacity: .9;
  border-radius: 5px;
 }
 
@@ -28,8 +28,8 @@ h3 {
 }
 #newBox {
     background-color: #F8C006;
-    opacity: .8;
-    padding: 30px;
+    opacity: .9;
+    padding: 20px;
     height: fit-content;
     margin-top: 30px;
     margin-left: 50px;
@@ -41,8 +41,8 @@ h3 {
 
 #addBox {
     background-color: #F8C006;
-    opacity: .8;
-    padding: 30px;
+    opacity: .9;
+    padding: 20px;
     height: fit-content;
     margin-top: 30px;
     margin-bottom: 20px;
@@ -54,8 +54,8 @@ h3 {
 
 #eaten {
     background-color: #F8C006;
-    opacity: .8;
-    padding: 30px;
+    opacity: .9;
+    padding: 20px;
     height: fit-content;
     width: fit-content;
     margin-top: 30px;
