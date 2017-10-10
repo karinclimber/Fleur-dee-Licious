@@ -10,7 +10,7 @@ body {
  margin-top: 20px;
  width: 90%;
  font-family: 'Permanent Marker', cursive;
- background-color: #F3E4B1 !important;
+ background-color: #FA020F !important;
  opacity: .9;
  border-radius: 5px;
 }
@@ -28,7 +28,7 @@ h3 {
 }
 #newBox {
     font-family: 'Permanent Marker', cursive;
-    background-color: #F3E4B1;
+    background-color: #FA020F;
     opacity: .9;
     padding: 20px;
     padding-top: 30px;
@@ -43,7 +43,7 @@ h3 {
 
 #addBox {
     font-family: 'Permanent Marker', cursive;
-    background-color: #F3E4B1;
+    background-color: #FA020F;
     opacity: .9;
     padding: 20px;
     padding-top: 30px;
@@ -58,7 +58,7 @@ h3 {
 
 #eaten {
     font-family: 'Permanent Marker', cursive;
-    background-color: #F3E4B1;
+    background-color: #FA020F;
     opacity: .9;
     padding: 20px;
     padding-top: 30px;
@@ -74,16 +74,20 @@ h3 {
 /* for phone */
     @media (max-width: 599px) { 
         .jumbotron {
-            width: 90%;
+            width: 100%;
+            margin: 10px;
         }
         #eaten {
-            width: 90%;
+            width: 100%;
+            margin: 10px;
         }
         #addBox {
-            width: 90%;
+            width: 100%;
+            margin: 10px;
         }
         #newBox {
-            width: 90%;
+            width: 100%;
+            margin: 10px;
         }
  }
   
