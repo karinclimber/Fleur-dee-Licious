@@ -75,19 +75,23 @@ h3 {
     @media (max-width: 599px) { 
         .jumbotron {
             width: 90%;
-            margin: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
         }
         #eaten {
             width: 900%;
-            margin: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
         }
         #addBox {
             width: 900%;
-            margin: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
         }
         #newBox {
             width: 900%;
-            margin: 20px;
+            margin-left: 20px;
+            margin-right: 20px;
         }
  }
   
