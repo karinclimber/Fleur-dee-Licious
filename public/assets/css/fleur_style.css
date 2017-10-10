@@ -9,7 +9,7 @@ body {
 .jumbotron {
  margin-top: 20px;
  width: 90%;
- font-size: 30px;
+ font-size: 36px !important;
  font-family: 'Bangers', cursive;
  background-color: white !important;
  opacity: .9;
