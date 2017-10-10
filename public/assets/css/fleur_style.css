@@ -7,8 +7,8 @@ body {
 }
 
 .jumbotron {
- margin-top: 20px;
- width: 90%;
+ margin-top: 30px;
+ width: 100%;
  font-family: 'Bangers', cursive;
  background-color: white !important;
  opacity: .9;
