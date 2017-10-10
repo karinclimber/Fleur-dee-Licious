@@ -127,23 +127,23 @@ h3 {
 /* for tablet-landscape-up  */
     @media only screen and (min-width: 765px) and (max-width:929px) { 
         .jumbotron {
-            width: 100%;
-            margin-left: 40px;
-            margin-right: 40px;
+            width: 90%;
+            margin-left: 100px;
+            margin-right: 100px;
         }
         #eaten {
-            width: 100%;
-            margin-left: 40px;
-            margin-right: 40px;
+            width: 90%;
+            margin-left: 100px;
+            margin-right: 100px;
         }
         #addBox {
-            width: 100%;
-            margin-left: 40px;
-            margin-right: 40px;
+            width: 90%;
+            margin-left: 100px;
+            margin-right: 100px;
         }
         #newBox {
-            width: 100%;
-            margin-left: 40px;
-            margin-right: 40px;
+            width: 90%;
+            margin-left: 100px;
+            margin-right: 100px;
         }
  }
