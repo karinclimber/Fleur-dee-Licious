@@ -125,7 +125,7 @@ h3 {
         } 
   } 
 /* for tablet-landscape-up  */
-    @media (min-width: 765px) and (max-width:929px) { 
+    @media (min-width: 765px) and (max-width:991px) { 
         .jumbotron {
             width: 90%;
             margin-left: 40px;
