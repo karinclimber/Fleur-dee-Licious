@@ -109,40 +109,40 @@ h3 {
             margin-right: 40px;
         }
         #eaten {
-            width: 80%;
+            width: 90%;
             margin-left: 40px;
             margin-right: 40px;
         }
         #addBox {
-            width: 80%;
+            width: 90%;
             margin-left: 40px;
             margin-right: 40px;
         }
         #newBox {
-            width: 80%;
+            width: 90%;
             margin-left: 40px;
             margin-right: 40px;
         } 
   } 
 /* for tablet-landscape-up  */
-    @media only screen and (min-width: 765px) and (max-width:929px) { 
+    @media (min-width: 765px) and (max-width:929px) { 
         .jumbotron {
             width: 90%;
             margin-left: 100px;
             margin-right: 100px;
         }
         #eaten {
-            width: 75%;
+            width: 100%;
             margin-left: 100px;
             margin-right: 100px;
         }
         #addBox {
-            width: 75%;
+            width: 100%;
             margin-left: 100px;
             margin-right: 100px;
         }
         #newBox {
-            width: 75%;
+            width: 100%;
             margin-left: 100px;
             margin-right: 100px;
         }
