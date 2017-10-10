@@ -2,17 +2,18 @@ body {
     background-image: url("../img/shrimp-po-boy.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: Papyrus, fantasy;
+    font-family: 'Permanent Marker', cursive;
     color: black;
 }
 
 .jumbotron {
  margin-top: 20px;
- width: 60%;
+ width: 80%;
  background-color: white;
  opacity: .8;
  border-radius: 5px;
 }
+
 h1,
 h2,
 h3 {
