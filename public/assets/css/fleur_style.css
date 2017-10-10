@@ -73,6 +73,18 @@ h3 {
 
 /* for phone */
     @media (max-width: 599px) { 
+        .jumbotron {
+            width: 90%;
+        }
+        #eaten {
+            width: 90%;
+        }
+        #addBox {
+            width: 90%;
+        }
+        #newBox {
+            width: 90%;
+        }
  }
   
  /* for tablet-portrait-up*/ 
