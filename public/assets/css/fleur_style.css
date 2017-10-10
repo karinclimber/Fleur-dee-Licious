@@ -10,7 +10,7 @@ body {
  margin-top: 20px;
  width: 90%;
  font-family: 'Permanent Marker', cursive;
- background-color: #F8C006 !important;
+ background-color: #F3E4B1 !important;
  opacity: .9;
  border-radius: 5px;
 }
@@ -27,7 +27,8 @@ h3 {
     font-family: 'Permanent Marker', cursive;
 }
 #newBox {
-    background-color: #F8C006;
+    font-family: 'Permanent Marker', cursive;
+    background-color: #F3E4B1;
     opacity: .9;
     padding: 20px;
     padding-top: 30px;
@@ -41,7 +42,8 @@ h3 {
 }
 
 #addBox {
-    background-color: #F8C006;
+    font-family: 'Permanent Marker', cursive;
+    background-color: #F3E4B1;
     opacity: .9;
     padding: 20px;
     padding-top: 30px;
@@ -55,7 +57,8 @@ h3 {
 }
 
 #eaten {
-    background-color: #F8C006;
+    font-family: 'Permanent Marker', cursive;
+    background-color: #F3E4B1;
     opacity: .9;
     padding: 20px;
     padding-top: 30px;
