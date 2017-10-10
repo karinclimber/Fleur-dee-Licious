@@ -104,46 +104,46 @@ h3 {
  /* for tablet-portrait-up  */
     @media (min-width: 600px) and (max-width: 769px){  
         .jumbotron {
-            width: 90;
-            margin-left: 30px;
-            margin-right: 30px;
+            width: 90%;
+            margin-left: 40px;
+            margin-right: 40px;
         }
         #eaten {
             width: 90%;
-            margin-left: 30px;
-            margin-right: 30px;
+            margin-left: 40px;
+            margin-right: 40px;
         }
         #addBox {
             width: 90%;
-            margin-left: 30px;
-            margin-right: 30px;
+            margin-left: 40px;
+            margin-right: 40px;
         }
         #newBox {
             width: 90%;
-            margin-left: 30px;
-            margin-right: 30px;
+            margin-left: 40px;
+            margin-right: 40px;
         } 
   } 
 /* for tablet-landscape-up  */
-    @media (min-width: 769px) and (max-width:930px) { 
+    @media (min-width: 769px) and (max-width:929px) { 
         .jumbotron {
-            width: 90;
-            margin-left: 30px;
-            margin-right: 30px;
+            width: 90%;
+            margin-left: 50px;
+            margin-right: 50px;
         }
         #eaten {
             width: 90%;
-            margin-left: 30px;
-            margin-right: 30px;
+            margin-left: 50px;
+            margin-right: 50px;
         }
         #addBox {
             width: 90%;
-            margin-left: 30px;
-            margin-right: 30px;
+            margin-left: 50px;
+            margin-right: 50px;
         }
         #newBox {
             width: 90%;
-            margin-left: 30px;
-            margin-right: 30px;
+            margin-left: 50px;
+            margin-right: 50px;
         }
  }
